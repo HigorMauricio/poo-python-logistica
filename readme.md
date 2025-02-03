@@ -35,10 +35,13 @@
 
 ### Visualização das Classe:
 - Método:
+  
 ![Image](https://github.com/user-attachments/assets/817bf86c-9af8-499b-9b54-91fadf46c55a)
 
 - Funções:
+  
 1. Estocagem
+   
     ![Image](https://github.com/user-attachments/assets/f99a6e93-e953-46ed-9f25-37f8beb1b6a9)
 
 
@@ -48,6 +51,7 @@
     ![Image](https://github.com/user-attachments/assets/d83ca2a7-bec2-4735-b073-27a6e32eccdd)
 
 2. Retirada:
+   
     ![Image](https://github.com/user-attachments/assets/77f7ea1b-6a81-461e-9133-80d5e5366c52)
 
     ![Image](https://github.com/user-attachments/assets/a57c58ce-3ed5-4f44-a12f-3e11a1c457f2)
@@ -55,7 +59,9 @@
     ![Image](https://github.com/user-attachments/assets/a0c3011a-5c88-450a-bcaa-cafe7462c3db)
 
 3. Principal_categoria:
+   
     ![Image](https://github.com/user-attachments/assets/682743b6-5167-4a88-a4c5-03678bf8f8c3)
 
 4. Desc_valor:
+   
     ![Image](https://github.com/user-attachments/assets/c109f59b-ebff-4722-b528-adf37d203328)
