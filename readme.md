@@ -7,7 +7,7 @@
 ## Classe Produto
     É a responsável por criar o objeto produto, que tem como atributos: id, nome, preço e categoria.
 
-### visualização da classe:
+### Cisualização da Classe:
 ![Image](https://github.com/user-attachments/assets/56789d4f-68ca-440c-9464-bfc006ab36f8)
 
 ![Image](https://github.com/user-attachments/assets/dcf9d9c6-a41f-4a95-95b4-433c9a26b409)
@@ -33,7 +33,7 @@
 
     Ao ser chamada, sem parâmetro ou com Tru, a função retornar o maior valor dos produtos no estoque, no caso da utilização do parâmetro False, é retornado o menor valor do estoque.
 
-### Visualização das Classe:
+### Visualização da Classe:
 - Atributos:
   
 ![Image](https://github.com/user-attachments/assets/817bf86c-9af8-499b-9b54-91fadf46c55a)
