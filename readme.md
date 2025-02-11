@@ -16,7 +16,7 @@
     É a responsavel por criar parâmetros como a quantidade de produtos, valor total do estoque, lista de produtos, id's, preços, e categorias
 
 
-### Ela tem como funções:
+### Ela tem como métodos:
 - estocagem: 
 
     Recebe id, nome, valor e categoria do produto. Verifica, pelo id, se o produto já está no estoque, se não o adiciona, atualizando o valor total de estoque, quantidade de produtos no estoque, lista de produtos, categorias, preços e id's.
@@ -34,11 +34,11 @@
     Ao ser chamada, sem parâmetro ou com Tru, a função retornar o maior valor dos produtos no estoque, no caso da utilização do parâmetro False, é retornado o menor valor do estoque.
 
 ### Visualização das Classe:
-- Método:
+- Atributos:
   
 ![Image](https://github.com/user-attachments/assets/817bf86c-9af8-499b-9b54-91fadf46c55a)
 
-- Funções:
+- Métodos:
   
 1. Estocagem
    
